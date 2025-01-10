@@ -31,7 +31,19 @@ Manually calculating the total cost of tickets, parking passes, and discounts ca
 2. Run the program using an IDE or terminal.
 3. Follow the prompts to input selections and view the calculated total.
 
----
+## What Makes This Project Stand Out?
+- Accurate, real-time calculations with comprehensive error handling.
+- Personalized experience with user prompts and responses.
+- Modular and easy to extend for additional features, such as online payment integration.
+
+## Requirements
+- Python 3.x
+- IDLE or any Python-compatible IDE
+
+## How to Run
+1. Clone or download this repository.
+2. Run the program using `python Project1.py`.
+3. Follow the interactive prompts to select pass types, add-ons, and discounts.   
 
 ## Future Improvements
 - Add a graphical user interface for better accessibility.
